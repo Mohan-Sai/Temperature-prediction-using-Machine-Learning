@@ -5,4 +5,4 @@ In this project we applied 4 regression models:
   1.Multiple Linear Regression
   2.Polynomial Regression
   3.Random Forest(Most accurate results for our dataset.)
-  4.SVM
+  4.SVM.
