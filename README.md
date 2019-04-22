@@ -6,3 +6,9 @@ In this project we applied 4 regression models:
   2.Polynomial Regression
   3.Random Forest(Most accurate results for our dataset.)
   4.SVM.
+ 
+Contributors:
+  Ashish9914,
+  Ravi Teja,
+  Bhargav Manne,
+  P.Srikar
